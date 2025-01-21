@@ -1,0 +1,1 @@
+This error occurs when using the Expo ImagePicker library and selecting multiple images. The issue is that the selected image uris are sometimes not returned correctly leading to an empty array or an incomplete list of selected images.
